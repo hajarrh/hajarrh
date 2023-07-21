@@ -1,0 +1,17 @@
+body{
+    background: url(ll.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+label {
+    color: aliceblue;
+}
+
+.sd {
+    color: aliceblue;
+}
+.fa-solid{
+    color: aliceblue;
+}
+
